@@ -1,0 +1,16 @@
+/* by label*/
+p {
+  color: blue;
+  font-size: 30px;
+}
+
+/* by class*/
+.paragraph {
+  font-weight: bold;
+}
+
+/* by ID*/
+#text {
+  color: red;
+  font-size: 24px;
+}
